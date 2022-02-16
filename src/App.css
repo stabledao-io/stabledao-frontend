@@ -23,8 +23,6 @@ a {
     text-decoration: none;
 }
 .mainlogo{
-  margin-top: -55px;
-  height: 60px;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
@@ -69,15 +67,14 @@ a {
 }
 
 .comming-soon {
-    margin-top: -85px;
-    font-size: 58px;
+    font-size: 52px;
     font-weight: 700;
-    line-height: 82px;
+    line-height: 72px;
     text-align: center;
 }
 
 .gradient-text {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .text-wrapp {
@@ -107,10 +104,9 @@ a {
 }
 
 .social-links {
-  margin-top: -150px;
-  padding-bottom: 30px;
     display: flex;
     align-items: center;
+    padding-bottom: 80px;
 }
 
 .social-icon {
@@ -121,7 +117,7 @@ a {
     align-items: center;
     justify-content: center;
     background: linear-gradient(to bottom, #ECFF59, #58E867, #47DAFF);
-    margin: 0 20px;
+    margin: 0 15px;
     transition: all .5s ease-in-out;
 }
 
@@ -149,7 +145,7 @@ a {
 .social-wrap {
     width: 48px;
     height: 48px;
-    margin: 0 20px;
+    margin: 0 15px;
 }
 
 .z-99 {
@@ -215,8 +211,6 @@ a {
     }
 
     .social-links {
-      /* margin-top: -20px;
-      padding-bottom: 30px; */
         display: flex;
         align-items: center;
     }
