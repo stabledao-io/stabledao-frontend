@@ -14,8 +14,8 @@ function App() {
       </a>
 
       <div className="center-text z-99">
-        <h2 className="comming-soon">Developing World's <br />
-          Truely Decentralized Stablecoin</h2>
+        <h2 className="comming-soon">Developing World's Truely <br />
+          Decentralized Reserve Currency</h2>
 
         <div className="gradient-text">
           <div className="text-wrapp"> <pre></pre>
@@ -27,15 +27,20 @@ function App() {
       </div>
 
       <div className="social-links z-99">
-        <a href="https://www.facebook.com/stabledao" target="_blank" rel="noreferrer" className="social-wrap">
+
+        <a href="https://www.reddit.com/user/stabledaoofficial" target="_blank" rel="noreferrer" className="social-wrap">
           <div className="social-icon">
-            <i className="fa-brands fa-facebook-f"></i>
+            <i className="fa-brands fa-reddit"></i>
           </div>
         </a>
-
-        <a href="https://www.instagram.com/stabledao/" target="_blank" rel="noreferrer" className="social-wrap">
+        {/* <a href="" target="_blank" rel="noreferrer" className="social-wrap">
           <div className="social-icon">
-            <i className="fa-brands fa-instagram"></i>
+            <i className="fa-brands fa-telegram"></i>
+          </div>
+        </a> */}
+        <a href="https://github.com/stabledao-io" target="_blank" rel="noreferrer" className="social-wrap">
+          <div className="social-icon">
+            <i className="fa-brands fa-github"></i>
           </div>
         </a>
 
