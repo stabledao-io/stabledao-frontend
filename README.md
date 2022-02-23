@@ -32,4 +32,4 @@ We keep an updated list of bugs/feature requests in [Github Issues](https://gith
 Filter by ["good first issue"](https://github.com/stabledao-io/stabledao-frontend/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) to get your feet wet!
 Once you submit a PR, our CI will generate a temporary testing URL where you can validate your changes. Tag any of the gatekeepers on the review to merge them into master. 
 
-Thankyou
+Thankyou!!
